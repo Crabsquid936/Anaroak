@@ -1,3 +1,3 @@
 <!DOCTYPE readme>
 
-This is a space for me to make a game
+THis is where the online game, Anaroak will be developed
