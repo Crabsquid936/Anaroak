@@ -6,3 +6,6 @@ markdown: kramdown
 theme: merlot
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  
+remote_theme: pages-themes/merlot@v0.2.0
