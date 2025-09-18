@@ -3,6 +3,6 @@ description: "A project by Crabsquid936"
 baseurl: ""
 url: "https://crabsquid936.github.io/Anaroak"
 markdown: kramdown
-theme: minima
+theme: merlot
 plugins:
   - jekyll-feed
