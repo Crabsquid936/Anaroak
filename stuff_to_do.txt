@@ -2,4 +2,4 @@ Basic website setup
 
 Assets
 
-user interaction
+user interaction ea collison boxes, inputs
