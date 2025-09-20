@@ -3,8 +3,9 @@ body {
   color: #000000;
   text-align: center;
 }
-.print-only {
-    display: Anaroak;
+@media print {
+  .print-only {
+    display: block;
 canvas {
   border: 12px solid #fff;
 }
