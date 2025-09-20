@@ -6,6 +6,8 @@ body {
 @media print {
   .print-only {
     display: block;
+  }
+}
 canvas {
   border: 12px solid #fff;
 }
