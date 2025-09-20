@@ -3,7 +3,7 @@ body {
   color: #000000;
   text-align: center;
 }
-.no-print {
+.print-only {
     display: Anaroak;
 canvas {
   border: 12px solid #fff;
