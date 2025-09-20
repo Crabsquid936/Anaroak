@@ -3,6 +3,8 @@ body {
   color: #000000;
   text-align: center;
 }
+.no-print {
+    display: Anaroak;
 canvas {
   border: 12px solid #fff;
 }
