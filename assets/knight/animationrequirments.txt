@@ -1,0 +1,8 @@
+Animations required for any of the knight class
+1 Idle
+2 Run
+3 Jump
+4 Walk
+5 Atack foreward
+6 Special Atack
+7 Block
