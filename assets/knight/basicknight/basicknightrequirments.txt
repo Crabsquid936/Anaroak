@@ -1,0 +1,3 @@
+The basic knight requirments are 
+1 Basic Squire
+2 Basic Knight
