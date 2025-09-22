@@ -1,3 +1,10 @@
 Trees
 Rocks
 ground
+Basic squire
+Basic elf
+Basic archer
+Basic spearman
+Basic dragon rider
+Basic Goblin
+Basic Troll
