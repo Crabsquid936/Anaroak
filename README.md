@@ -2,4 +2,4 @@
 
 This is where the online game, Anaroak will be developed
 
-If You Have nothing to do, Please read the things_to_do.txt
+If you have nothing to do, Please read the stuff_to_do.txt
