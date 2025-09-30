@@ -1,5 +1,7 @@
-Basic website setup
+Basic website setup.
 
-Assets
+Assets.
 
-user interaction ea collison boxes, inputs
+User interaction ea collison boxes, inputs.
+
+Once development is finished, remove from github and publish as independent website.
