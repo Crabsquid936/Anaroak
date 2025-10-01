@@ -4,4 +4,4 @@ Assets.
 
 User interaction ea collison boxes, inputs.
 
-Once development is finished, remove from github and publish as independent website. (Please don't get mad!)
+Once development is finished, remove from github and publish as independent website. (Please don't get mad!) I'm not mad I just don't think that is possible, plus if it gets blocked we can just change the .com to whatever we want.
