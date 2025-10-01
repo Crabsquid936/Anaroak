@@ -1,2 +1,0 @@
-html
-justify x
