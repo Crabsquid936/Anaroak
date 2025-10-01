@@ -1,0 +1,12 @@
+DO NOT DUPLICATE! COPY AND PASTE JAVASCRIPT!!!
+
+
+const anim1 = new SpriteAnimation({
+  src: 'assets/bg-sprite-sheet.png', // Path to your sprite sheet image
+  frameWidth: 320,                   // Width of each frame
+  frameHeight: 240,                  // Height of each frame
+  frameCount: 8,                     // Number of frames in the sheet
+  frameSpeed: 120,                   // Milliseconds per frame
+  x: 0,                              // Draw position X
+  y: 0                               // Draw position Y
+});
