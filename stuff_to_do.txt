@@ -4,4 +4,4 @@ Assets.
 
 User interaction ea collison boxes, inputs.
 
-Once development is finished, remove from github and publish as independent website.
+Once development is finished, remove from github and publish as independent website. (Please don't get mad!)
