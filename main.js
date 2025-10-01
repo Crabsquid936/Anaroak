@@ -2,23 +2,22 @@ const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 ctx.imageSmoothingEnabled = false;
 
-const basicknightforwardslash = new SpriteAnimation({
+const knightAnim = new SpriteAnimation({
   src: 'assets/knight/basicknight/basicknightforwardslash.png',
-  frameWidth: 64,
-  frameHeight: 64,
-  frameCount: 5,
-  frameSpeed: 91,
-  x: 0,
-  y: 0
+  frameWidth: 32,
+  frameHeight: 32,
+  frameCount: 6,
+  frameSpeed: 91, // for 11 fps
+  x: 100,
+  y: 100
 });
-
 
 function mainLoop(timestamp) {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-  basicknightforwardslash.draw(ctx, timestamp);
-    requestAnimationFrame(mainLoop);
+  knightAnim.draw(ctx, timestamp);
+  requestAnimationFrame(mainLoop);
 }
 
-basicknightforwardslash.img.onload = function() {
+knightAnim.img.onload = function() {
   requestAnimationFrame(mainLoop);
 };
