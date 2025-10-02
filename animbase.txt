@@ -7,6 +7,7 @@ const anim1 = new SpriteAnimation({
   frameHeight: 240,                  // Height of each frame
   frameCount: 8,                     // Number of frames in the sheet
   frameSpeed: 120,                   // Milliseconds per frame
+  columns: 1,
   x: 0,                              // Draw position X
   y: 0                               // Draw position Y
 });
