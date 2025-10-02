@@ -8,6 +8,7 @@ const knightAnim = new SpriteAnimation({
   frameHeight: 32,
   frameCount: 6,
   frameSpeed: 91, // for 11 fps
+  columns: 2,
   x: 100,
   y: 100
 });
