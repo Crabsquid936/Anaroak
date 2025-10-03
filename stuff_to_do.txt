@@ -1,7 +1,14 @@
-Basic website setup.
+This is the stuff to do .txt! rplace the # with a * for a check mark!
+
+Basic website setup
+-----------------------------------------
+# url setup
+# backround assets
+#
+
 
 Assets.
 
 User interaction ea collison boxes, inputs.
 
-Once development is finished, remove from github and publish as independent website. (Please don't get mad!) I'm not mad I just don't think that is possible, plus if it gets blocked we can just change the .com to whatever we want.
+
