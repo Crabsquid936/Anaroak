@@ -1,10 +1,44 @@
-Trees
-Rocks
-ground
-Basic squire
-Basic elf
-Basic archer
-Basic spearman
-Basic dragon rider
-Basic Goblin
-Basic Troll
+Assetlist
+_______________________________________
+This is where we are going to store what assets we need to do. Use a # to show an uncompleted asset and a * for a check mark. Most backround assets wil have different day time variations. Just shade or lighten for these. Hop to it soldier!
+_______________________________________
+
+
+Required Assets
+---------------------------------------
+# Basicusebox
+* Favicon
+# Basicbuttonoutline
+---------------------------------------
+
+
+Backround
+---------------------------------------
+# Tree1night
+# Tree1morning
+# Tree1evening
+# Tree1afternoon
+# Tree2night
+# Tree2morning
+# Tree2evening
+# Tree2noon
+# Stablesnoon
+# Stablesnight
+# Stablesmorning
+# Stablesevening
+# Cobblefloor
+# Forestfloor
+# Innfloor
+# Skynoon
+# Skynight
+# Skyevening
+# Skyrain
+---------------------------------------
+
+
+Characters
+---------------------------------------
+# Squire
+# Archer
+# Elf
+---------------------------------------
