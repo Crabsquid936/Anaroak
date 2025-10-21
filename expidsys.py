@@ -1,6 +1,7 @@
 import random
-#this is for an id system#
-IDs = ()
-Humanid = (random.randint(1,10000))
-print(Humanid)
-IDs.append == (Humanid)
+#this is for an id system
+IDs = []
+pID = (random.randint(1,100000))
+print(pID)
+IDs.append == (pID)
+if pID == 
