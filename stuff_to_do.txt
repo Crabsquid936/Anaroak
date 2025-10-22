@@ -1,0 +1,26 @@
+This is the stuff to do .txt! replace the # with a * for a check mark! Check Projects for details.
+
+Basic website setup
+-----------------------------------------
+* url setup
+# button setup
+# secret setup
+-----------------------------------------
+
+
+Assets
+-----------------------------------------
+Just read the freaking assets.txt
+-----------------------------------------
+
+
+Main.js
+-----------------------------------------
+# Configure animations
+-----------------------------------------
+
+
+Issues
+-----------------------------------------
+Go and look at the issues tab
+-----------------------------------------
