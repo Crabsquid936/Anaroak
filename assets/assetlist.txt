@@ -41,6 +41,6 @@ Characters
 # Squire
 # Archer
 # Elf
-# Corrupted Squire
-# Corrupted Archer
+# Goblin Squire
+# Goblin Archer
 ---------------------------------------
