@@ -43,4 +43,5 @@ Characters
 # Elf
 # Goblin Squire
 # Goblin Archer
+# Tushan-Ghul, Lord of Darkness
 ---------------------------------------
